@@ -1,14 +1,18 @@
 [
    {
       "title": "Home-Work",
-      "text": "Remember to hand in your homework on time!"
+      "text": "Remember to hand in your homework on time!",
+      "id": "1"
    },
    {
       "title": "Trapeze",
-      "text": "You're teaching on tuesdays so you should add that to your calendar"
+      "text": "You're teaching on tuesdays so you should add that to your calendar",
+      "id": "2"
    },
    {
       "title": "Biking",
-      "text": "Finish designing biking group shirts"
+      "text": "Finish designing biking group shirts",
+      "id": "3"
+      
    }
 ]
