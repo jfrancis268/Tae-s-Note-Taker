@@ -3,6 +3,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
+  font-family: 'Roboto Serif', sans-serif;
 }
 
 .save-note {
@@ -75,4 +76,13 @@ body {
   border-right: none;
   padding: 20px;
   cursor: pointer;
+}
+
+.bg-dark {
+  background-color: #8f4747 !important;
+}
+
+.fa-trash-alt:before {
+  color: cadetblue;
+  content: "\f2ed";
 }
