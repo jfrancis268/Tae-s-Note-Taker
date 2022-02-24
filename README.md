@@ -12,13 +12,11 @@ This is an app used to write and save notes in an organized manner.
 
 ## Table of Contents 
 
-- [Installation](#installation)
+- [Deployment](#deployment)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Contributors](#Contributors)
-- [Tests](#Tests)
-- [Questions](#Questions)
+- [Questions](#questions)
 
 
 ## Deployment
@@ -28,7 +26,11 @@ This is an app used to write and save notes in an organized manner.
 <br/>
 
 ## Usage
+First you'd git the deployment link and you'd see this
+![Screen Shot 2022-02-24 at 2 53 45 AM](https://user-images.githubusercontent.com/96415684/155481718-f24ae3e7-311d-484a-9a5e-c14d591bac04.png)
 
+Then you'd hit get started where you'd see this and here is where you can start writing your notes and a save button would pop up.
+![Screen Shot 2022-02-24 at 2 53 52 AM](https://user-images.githubusercontent.com/96415684/155481746-3196d986-d9c7-4185-8d91-4fa2c413eb2a.png)
 
 
 <br/>
@@ -36,7 +38,9 @@ This is an app used to write and save notes in an organized manner.
 ## Credits
 
 Third-party assets:
-Heroku, NPM UUID, NPM EXPRESS
+Heroku, 
+NPM UUID, 
+NPM EXPRESS
 
 <br/>
 
@@ -48,14 +52,6 @@ This application uses the MIT License
 For more information, please visit: https://opensource.org/licenses/MIT
 
 <br/>
-
-## Contributors
-
-Project powered by the contributions of:
-
-
-## Tests
-
 
 
 ## Questions
